@@ -7,8 +7,8 @@ tomcat_users_path: "{{tomcat_path}}/conf/"
 service_account: ec2-user
 
 ##### Nexus details
-nexusserverip: 18.206.156.172
-nexus_repo: javaapprepository
+nexusserverip: 172.31.17.203
+nexus_repo: javaapprepo
 nexus_appname: myapp1
 
 ##### Dotnet variables
